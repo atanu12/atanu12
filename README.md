@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bindas_bapi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bindas_bapi_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atanu-mondal30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="atanu-mondal30" height="30" width="40" /></a>
-<a href="https://instagram.com/bindas_lif_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bindas_lif_" height="30" width="40" /></a>
+<a href="https://twitter.com/bindas_bapi_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bindas_bapi_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atanu-mondal30" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="atanu-mondal30" height="30" width="40" /></a>
+<a href="https://instagram.com/bindas_lif_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bindas_lif_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
